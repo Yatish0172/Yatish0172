@@ -1,68 +1,94 @@
 <div align="center">
 
-# Hey, I'm Yatish Sharma 👋
+# 🟩 YATISH'S OVERWORLD
+### ⛏️ Mining ideas. Crafting software.
 
-### Building AI tools. Automating workflows. Shipping useful software.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1500&color=73D13D&center=true&vCenter=true&width=650&height=65&lines=A+wild+developer+has+spawned!;Gathering+resources...;Crafting+AI+and+web+apps...;Watch+out+for+bugs!" alt="A wild developer has spawned! Gathering resources. Crafting AI and web apps. Watch out for bugs!" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Automation;Full-Stack+Development;Turning+ideas+into+working+products" alt="AI, automation, and full-stack development" />
-
-<br />
-
-<a href="https://github.com/Yatish0172">
-  <img src="https://img.shields.io/badge/GitHub-Yatish0172-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:YATISH0172@GMAIL.COM">
-  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
----
-
-## 🧠 About me
-
-- 🎓 Computer Science student at **UPES, Dehradun**.
-- 🤖 Interested in **artificial intelligence and automation**.
-- 💻 Exploring **full-stack development**.
-- 🛠️ I enjoy turning everyday problems into practical software.
-
-> Great ideas deserve working prototypes.
-
----
-
-## ⚡ Languages & tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,react,vite,fastapi,express,electron&perline=5" alt="Python, TypeScript, JavaScript, HTML, CSS, React, Vite, FastAPI, Express, Electron" />
-
-</div>
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yatish0172&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=A78BFA&bg_color=0D1117" alt="Yatish's GitHub statistics" />
+🟫 🟩 🟫 🟩 🟫 🟩 🟫 🟩 🟫 🟩 🟫 🟩
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatish0172&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&bg_color=0D1117" alt="Most used languages across public repositories" />
+<a href="mailto:YATISH0172@GMAIL.COM"><img src="https://img.shields.io/badge/OPEN_CHAT-73D13D?style=for-the-badge&logo=gmail&logoColor=18230F" alt="Email me" /></a>
+&nbsp;
+<a href="https://github.com/Yatish0172?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_BUILDS-795548?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Explore my repositories" /></a>
 
 </div>
 
 ---
 
-## 🤝 Let's connect
+## 🧑 Player Info
 
-Interested in AI, automation, or full-stack development?
-Feel free to reach out.
+```yaml
+player: Yatish Sharma
+spawn_point: UPES, Dehradun
+class: Computer Science Student
+biomes:
+  - Artificial Intelligence
+  - Automation
+  - Full-Stack Development
+playstyle: Learn by building
+```
 
-📬 **[YATISH0172@GMAIL.COM](mailto:YATISH0172@GMAIL.COM)**
+I turn ideas into useful software, one block at a time.
+Usually exploring a new concept, connecting systems,
+or figuring out why the build worked five minutes ago.
+
+## 🎒 Inventory
 
 <div align="center">
 
-### Learn something. Build something. Make it better.
+### Hotbar · Languages
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css&theme=dark" alt="Python, TypeScript, JavaScript, HTML, CSS" />
+
+### Crafting Tools · Frameworks
+
+<img src="https://skillicons.dev/icons?i=react,vite,fastapi,express,electron&theme=dark" alt="React, Vite, FastAPI, Express, Electron" />
+
+</div>
+
+## 🛠️ Crafting Table
+
+| Ingredient | Ingredient | Crafted Item |
+| :---: | :---: | :---: |
+| 🧠 Curiosity | 🐍 Python | AI experiments |
+| 🎨 Interface | ⚙️ Backend | Full-stack applications |
+| 🔁 Repetitive task | 💡 A little code | Automation |
+| 🐛 Bug | ☕ Persistence | A lesson learned |
+
+## 🧭 Quest Board
+
+- 🟢 **Main quest:** Build software that solves everyday problems.
+- 🟡 **Side quest:** Explore AI and automation.
+- 🔵 **Exploration:** Connect better interfaces with useful backends.
+- 🟣 **Ongoing quest:** Understand the things I build.
+
+## 💎 XP & World Stats
+
+<div align="center">
+
+<img width="59%" src="https://github-stats-extended.vercel.app/api?username=Yatish0172&show_icons=true&hide_rank=true&hide_border=false&border_color=4B6139&bg_color=18230F&title_color=91D34A&text_color=E8DFC5&icon_color=67D7E8" alt="Yatish's GitHub statistics" />
+<img width="39%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yatish0172&layout=compact&hide_border=false&border_color=4B6139&bg_color=18230F&title_color=91D34A&text_color=E8DFC5&langs_count=6" alt="Most used repository languages" />
+
+<sub>These are GitHub activity stats. Actual diamond count remains classified.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏕️ Join the Campfire
+
+Have an idea? Found something interesting? Let's talk.
+
+**[📨 Send a message](mailto:YATISH0172@GMAIL.COM)**
+
+<br />
+
+**Keep exploring. Keep crafting. Save your progress.**
+
+🟫 🟩 🟫 🟩 🟫 🟩 🟫 🟩 🟫 🟩 🟫 🟩
 
 </div>
